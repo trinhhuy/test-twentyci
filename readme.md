@@ -16,6 +16,6 @@ One CRUD operation to manage Posts - create/edit/update/delete.
 - Run __php artisan db:seed__
 - Run __npm install__
 - Run __npm run dev__
-- account: admin@gmail.com, passwork: 123456
+- account: admin@email.com, passwork: admin
 
 ---
